@@ -1,186 +1,196 @@
-# Noor-Phonetic-Quran
-PRIVACY POLICY
+# Noor Phonetic Quran
 
-Last updated MAI 23, 2024
+POLITIQUE DE CONFIDENTIALITÉ
 
-This privacy notice for __________ ("we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you: Download and use our mobile application (Noor Phonetic Quran), or any other application of ours that links to this privacy notice Engage with us in other related ways, including any sales, marketing, or events Questions or concerns?Â Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at othmeneb@gmail.com.
+Dernière mise à jour : 23 MAI 2024
 
-SUMMARY OF KEY POINTS
+Cet avis de confidentialité pour __________ ("nous", "notre" ou "nos"), décrit comment et pourquoi nous pouvons collecter, stocker, utiliser et/ou partager ("traiter") vos informations lorsque vous utilisez nos services ("Services"), tels que lorsque vous : Téléchargez et utilisez notre application mobile (Noor Phonetic Quran) ou toute autre application à laquelle cet avis de confidentialité est lié. Interagissez avec nous de toute autre manière, y compris par le biais de ventes, de marketing ou d'événements.
 
-This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using ourÂ table of contentsÂ below to find the section you are looking for.
+Des questions ou des préoccupations ? Lire cet avis de confidentialité vous aidera à comprendre vos droits et choix en matière de confidentialité. Si vous n'êtes pas d'accord avec nos politiques et pratiques, veuillez ne pas utiliser nos Services. Si vous avez encore des questions ou des préoccupations, veuillez nous contacter à othmeneb@gmail.com.
 
-What personal information do we process? When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more aboutÂ personal information you disclose to us.
+RÉSUMÉ DES POINTS CLÉS
 
-Do we process any sensitive personal information? We do not process sensitive personal information.
+Ce résumé présente les points clés de notre avis de confidentialité, mais vous pouvez en savoir plus sur chacun de ces sujets en cliquant sur le lien suivant chaque point clé ou en utilisant notre table des matières ci-dessous pour trouver la section que vous recherchez.
 
-Do we receive any information from third parties? We do not receive any information from third parties.
+Quelles informations personnelles traitons-nous ? Lorsque vous visitez, utilisez ou naviguez sur nos Services, nous pouvons traiter des informations personnelles en fonction de la manière dont vous interagissez avec nous et les Services, des choix que vous faites et des produits et fonctionnalités que vous utilisez. En savoir plus sur les informations personnelles que vous nous divulguez.
 
-How do we process your information? We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more aboutÂ how we process your information.
+Traitons-nous des informations personnelles sensibles ? Nous ne traitons pas d'informations personnelles sensibles.
 
-In what situations and with which parties do we share personal information? We may share information in specific situations and with specific third parties. Learn more aboutÂ when and with whom we share your personal information.
+Recevons-nous des informations de la part de tiers ? Nous ne recevons aucune information de la part de tiers.
 
-What are your rights? Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more aboutÂ your privacy rights.
+Comment traitons-nous vos informations ? Nous traitons vos informations pour fournir, améliorer et administrer nos Services, communiquer avec vous, pour la sécurité et la prévention de la fraude, et pour nous conformer à la loi. Nous pouvons également traiter vos informations à d'autres fins avec votre consentement. Nous traitons vos informations uniquement lorsque nous avons une raison légale valable de le faire. En savoir plus sur la manière dont nous traitons vos informations.
 
-How do you exercise your rights? The easiest way to exercise your rights is by submitting aÂ data subject access request, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+Dans quelles situations et avec quelles parties partageons-nous des informations personnelles ? Nous pouvons partager des informations dans des situations spécifiques et avec des tiers spécifiques. En savoir plus sur le moment et avec qui nous partageons vos informations personnelles.
 
-Want to learn more about what we do with any information we collect?Â Review the privacy notice in full.
+Quels sont vos droits ? Selon votre emplacement géographique, la loi applicable en matière de confidentialité peut vous conférer certains droits concernant vos informations personnelles. En savoir plus sur vos droits en matière de confidentialité.
 
-TABLE OF CONTENTS
+Comment pouvez-vous exercer vos droits ? Le moyen le plus simple d'exercer vos droits est de soumettre une demande d'accès aux données ou de nous contacter. Nous examinerons et agirons sur toute demande conformément aux lois sur la protection des données applicables.
 
-WHAT INFORMATION DO WE COLLECT?
+Vous voulez en savoir plus sur ce que nous faisons des informations que nous collectons ? Consultez l'avis de confidentialité complet.
 
-HOW DO WE PROCESS YOUR INFORMATION?
+TABLE DES MATIÈRES
 
-WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?
+QUELLES INFORMATIONS COLLECTONS-NOUS ?
 
-WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+COMMENT TRAITONS-NOUS VOS INFORMATIONS ?
 
-HOW LONG DO WE KEEP YOUR INFORMATION?
+SUR QUELLES BASES JURIDIQUES NOUS APPUYONS-NOUS POUR TRAITER VOS INFORMATIONS PERSONNELLES ?
 
-WHAT ARE YOUR PRIVACY RIGHTS?
+QUAND ET AVEC QUI PARTAGEONS-NOUS VOS INFORMATIONS PERSONNELLES ?
 
-CONTROLS FOR DO-NOT-TRACK FEATURES
+COMBIEN DE TEMPS CONSERVONS-NOUS VOS INFORMATIONS ?
 
-DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+QUELS SONT VOS DROITS EN MATIÈRE DE CONFIDENTIALITÉ ?
 
-DO WE MAKE UPDATES TO THIS NOTICE?
+CONTRÔLES DES FONCTIONNALITÉS DO-NOT-TRACK
 
-HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+LES RÉSIDENTS DES ÉTATS-UNIS ONT-ILS DES DROITS SPÉCIFIQUES EN MATIÈRE DE CONFIDENTIALITÉ ?
 
-HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+METTONS-NOUS À JOUR CET AVIS ?
 
-WHAT INFORMATION DO WE COLLECT?
+COMMENT POUVEZ-VOUS NOUS CONTACTER À PROPOS DE CET AVIS ?
 
-Personal information you disclose to us
+COMMENT POUVEZ-VOUS CONSULTER, METTRE À JOUR OU SUPPRIMER LES DONNÉES QUE NOUS COLLECTONS DE VOUS ?
 
-In Short:Â We collect personal information that you provide to us.
+QUELLES INFORMATIONS COLLECTONS-NOUS ?
 
-We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
+Informations personnelles que vous nous divulguez
 
-Sensitive Information. We do not process sensitive information.
+En bref : Nous collectons des informations personnelles que vous nous fournissez.
 
-Application Data. If you use our application(s), we also may collect the following information if you choose to provide us with access or permission: Geolocation Information. We may request access or permission to track location-based information from your mobile device, either continuously or while you are using our mobile application(s), to provide certain location-based services. If you wish to change our access or permissions, you may do so in your device's settings. Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's and other features. If you wish to change our access or permissions, you may do so in your device's settings. This information is primarily needed to maintain the security and operation of our application(s), for troubleshooting, and for our internal analytics and reporting purposes.
+Nous collectons des informations personnelles que vous nous fournissez volontairement lorsque vous manifestez un intérêt pour obtenir des informations sur nous ou nos produits et Services, lorsque vous participez à des activités sur les Services, ou autrement lorsque vous nous contactez.
 
-All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
+Informations sensibles : Nous ne traitons pas d'informations sensibles.
 
-HOW DO WE PROCESS YOUR INFORMATION?
-In Short:Â We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.
+Données d'application : Si vous utilisez notre ou nos applications, nous pouvons également collecter les informations suivantes si vous choisissez de nous fournir un accès ou une autorisation : Informations de géolocalisation. Nous pouvons demander un accès ou une autorisation pour suivre des informations basées sur la localisation depuis votre appareil mobile, soit en continu, soit pendant que vous utilisez notre ou nos applications mobiles, pour fournir certains services basés sur la localisation. Si vous souhaitez modifier notre accès ou nos autorisations, vous pouvez le faire dans les paramètres de votre appareil. Accès aux appareils mobiles. Nous pouvons demander un accès ou une autorisation à certaines fonctionnalités de votre appareil mobile. Si vous souhaitez modifier notre accès ou nos autorisations, vous pouvez le faire dans les paramètres de votre appareil. Ces informations sont principalement nécessaires pour maintenir la sécurité et le bon fonctionnement de notre ou nos applications, pour le dépannage et pour nos analyses et rapports internes.
 
-We process your personal information for a variety of reasons, depending on how you interact with our Services, including: To save or protect an individual's vital interest. We may process your information when necessary to save or protect an individualâ€™s vital interest, such as to prevent harm.
+Toutes les informations personnelles que vous nous fournissez doivent être vraies, complètes et exactes, et vous devez nous informer de tout changement concernant ces informations personnelles.
 
-WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
-In Short:Â We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests.
+COMMENT TRAITONS-NOUS VOS INFORMATIONS ?
 
-If you are located in the EU or UK, this section applies to you.
+En bref : Nous traitons vos informations pour fournir, améliorer et administrer nos Services, communiquer avec vous, pour la sécurité et la prévention de la fraude, et pour nous conformer à la loi. Nous pouvons également traiter vos informations à d'autres fins avec votre consentement.
 
-The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information: Consent.Â We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more aboutÂ withdrawing your consent. Legal Obligations. We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved. Vital Interests. We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person. If you are located in Canada, this section applies to you.
+Nous traitons vos informations personnelles pour diverses raisons, en fonction de la manière dont vous interagissez avec nos Services, notamment : Pour sauvegarder ou protéger l'intérêt vital d'une personne. Nous pouvons traiter vos informations lorsque cela est nécessaire pour sauvegarder ou protéger l'intérêt vital d'une personne, comme pour prévenir des dommages.
 
-We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You canÂ withdraw your consentÂ at any time.
+SUR QUELLES BASES JURIDIQUES NOUS APPUYONS-NOUS POUR TRAITER VOS INFORMATIONS ?
 
-In some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example: If collection is clearly in the interests of an individual and consent cannot be obtained in a timely way For investigations and fraud detection and prevention For business transactions provided certain conditions are met If it is contained in a witness statement and the collection is necessary to assess, process, or settle an insurance claim For identifying injured, ill, or deceased persons and communicating with next of kin If we have reasonable grounds to believe an individual has been, is, or may be victim of financial abuse If it is reasonable to expect collection and use with consent would compromise the availability or the accuracy of the information and the collection is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province If disclosure is required to comply with a subpoena, warrant, court order, or rules of the court relating to the production of records If it was produced by an individual in the course of their employment, business, or profession and the collection is consistent with the purposes for which the information was produced If the collection is solely for journalistic, artistic, or literary purposes If the information is publicly available and is specified by the regulations
+En bref : Nous ne traitons vos informations personnelles que lorsque nous estimons que c'est nécessaire et que nous avons une raison légale valable (c'est-à-dire une base juridique) de le faire en vertu de la loi applicable, comme avec votre consentement, pour nous conformer aux lois, pour vous fournir des services, pour remplir nos obligations contractuelles, pour protéger vos droits ou pour poursuivre nos intérêts commerciaux légitimes.
 
-WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
-In Short:Â We may share information in specific situations described in this section and/or with the following third parties.
+Si vous vous trouvez dans l'UE ou au Royaume-Uni, cette section s'applique à vous.
 
-We may need to share your personal information in the following situations: Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+Le Règlement général sur la protection des données (RGPD) et le RGPD britannique exigent que nous expliquions les bases juridiques valides sur lesquelles nous nous appuyons pour traiter vos informations personnelles. À ce titre, nous pouvons nous appuyer sur les bases juridiques suivantes pour traiter vos informations personnelles : Consentement. Nous pouvons traiter vos informations si vous nous avez donné la permission (c'est-à-dire le consentement) d'utiliser vos informations personnelles dans un but précis. Vous pouvez retirer votre consentement à tout moment. En savoir plus sur le retrait de votre consentement. Obligations légales. Nous pouvons traiter vos informations lorsque nous pensons que cela est nécessaire pour nous conformer à nos obligations légales, comme coopérer avec un organisme d'application de la loi ou une agence de réglementation, exercer ou défendre nos droits légaux, ou divulguer vos informations comme preuve dans un litige auquel nous sommes parties. Intérêts vitaux. Nous pouvons traiter vos informations lorsque nous pensons que cela est nécessaire pour protéger vos intérêts vitaux ou les intérêts vitaux d'un tiers, comme dans des situations impliquant des menaces potentielles pour la sécurité de toute personne. Si vous vous trouvez au Canada, cette section s'applique à vous.
 
-HOW LONG DO WE KEEP YOUR INFORMATION?
-In Short:Â We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
+Nous pouvons traiter vos informations si vous nous avez donné une permission spécifique (c'est-à-dire un consentement exprès) d'utiliser vos informations personnelles dans un but précis, ou dans des situations où votre permission peut être déduite (c'est-à-dire un consentement implicite). Vous pouvez retirer votre consentement à tout moment.
 
-We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements).Â
+Dans certains cas exceptionnels, nous pouvons être légalement autorisés en vertu de la loi applicable à traiter vos informations sans votre consentement, notamment, par exemple : Si la collecte est clairement dans l'intérêt d'un individu et que le consentement ne peut être obtenu en temps opportun Pour les enquêtes et la détection et la prévention de la fraude Pour les transactions commerciales à condition que certaines conditions soient remplies Si cela est contenu dans une déclaration de témoin et que la collecte est nécessaire pour évaluer, traiter ou régler une réclamation d'assurance Pour identifier des personnes blessées, malades ou décédées et communiquer avec les proches parents Si nous avons des motifs raisonnables de croire qu'une personne a été, est ou peut être victime d'abus financier Si la collecte et l'utilisation avec consentement sont raisonnablement susceptibles de compromettre la disponibilité ou l'exactitude des informations et que la collecte est raisonnable à des fins liées à l'enquête sur une violation d'un accord ou une infraction aux lois du Canada ou d'une province Si la divulgation est requise pour se conformer à une assignation, un mandat, une ordonnance du tribunal ou des règles du tribunal relatives à la production de dossiers Si elle a été produite par un individu dans le cadre de son emploi, de son entreprise ou de sa profession et que la collecte est conforme aux finalités pour lesquelles les informations ont été produites Si la collecte est uniquement à des fins journalistiques, artistiques ou littéraires Si les informations sont publiquement disponibles et spécifiées par les règlements
 
-When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+QUAND ET AVEC QUI PARTAGEONS-NOUS VOS INFORMATIONS PERSONNELLES ?
 
-WHAT ARE YOUR PRIVACY RIGHTS?
-In Short:Â In some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control over your personal information.Â You may review, change, or terminate your account at any time.
+En bref : Nous pouvons partager des informations dans des situations spécifiques décrites dans cette section et/ou avec les tiers suivants.
 
-In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below.
+Nous pouvons avoir besoin de partager vos informations personnelles dans les situations suivantes : Transferts d'entreprise. Nous pouvons partager ou transférer vos informations en relation avec, ou pendant les négociations de, toute fusion, vente d'actifs de l'entreprise, financement ou acquisition de tout ou partie de notre entreprise par une autre entreprise.
 
-We will consider and act upon any request in accordance with applicable data protection laws. Â If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your Member State data protection authority orÂ UK data protection authority.
+COMBIEN DE TEMPS CONSERVONS-NOUS VOS INFORMATIONS ?
 
-If you are located in Switzerland, you may contact the Federal Data Protection and Information Commissioner.
+En bref : Nous conservons vos informations aussi longtemps que nécessaire pour remplir les objectifs décrits dans cet avis de confidentialité, sauf si la loi l'exige autrement.
 
-Withdrawing your consent: If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below.
+Nous ne conserverons vos informations personnelles que le temps nécessaire aux fins énoncées dans cet avis de confidentialité, à moins qu'une période de conservation plus longue ne soit requise ou permise par la loi (comme les exigences fiscales, comptables ou autres exigences légales).
 
-However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+Lorsque nous n'avons aucun besoin commercial légitime de traiter vos informations personnelles, nous les supprimerons ou les anonymiserons, ou, si cela n'est pas possible (par exemple, parce que vos informations personnelles ont été stockées dans des archives de sauvegarde), nous stockerons vos informations personnelles en toute sécurité et les isolerons de tout traitement ultérieur jusqu'à ce que la suppression soit possible.
 
-If you have questions or comments about your privacy rights, you may email us at othmeneb@gmail.com.
+QUELS SONT VOS DROITS EN MATIÈRE DE CONFIDENTIALITÉ ?
 
-CONTROLS FOR DO-NOT-TRACK FEATURES
-Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
+En bref : Dans certaines régions, comme l'Espace économique européen (EEE), le Royaume-Uni (RU), la Suisse et le Canada, vous avez des droits qui vous permettent un accès plus important à vos informations personnelles et un contrôle plus important sur celles-ci. Vous pouvez consulter, modifier ou résilier votre compte à tout moment.
 
-DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
-In Short:Â If you are a resident of , you are granted specific rights regarding access to your personal information.
+Dans certaines régions (comme l'EEE, le RU, la Suisse et le Canada), vous avez certains droits en vertu des lois sur la protection des données applicables. Ceux-ci peuvent inclure le droit (i) de demander l'accès et d'obtenir une copie de vos informations personnelles, (ii) de demander la rectification ou l'effacement ; (iii) de restreindre le traitement de vos informations personnelles ; (iv) le cas échéant, à la portabilité des données ; et (v) de ne pas faire l'objet de décisions automatisées. Dans certaines circonstances, vous pouvez également avoir le droit de vous opposer au traitement de vos informations personnelles. Vous pouvez faire une telle demande en nous contactant en utilisant les coordonnées fournies dans la section "COMMENT POUVEZ-VOUS NOUS CONTACTER À PROPOS DE CET AVIS ?" ci-dessous.
 
-What categories of personal information do we collect?
+Nous examinerons et agirons sur toute demande conformément aux lois applicables sur la protection des données. Si vous vous trouvez dans l'EEE ou au Royaume-Uni et que vous pensez que nous traitons vos informations personnelles de manière illégale, vous avez également le droit de déposer une plainte auprès de l'autorité de protection des données de votre État membre ou de l'autorité de protection des données du Royaume-Uni.
 
-We have collected the following categories of personal information in the past twelve (12) months:
+Si vous vous trouvez en Suisse, vous pouvez contacter le Préposé fédéral à la protection des données et à l'information.
 
-Category Examples Collected A. Identifiers Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name
+Retrait de votre consentement : Si nous nous appuyons sur votre consentement pour traiter vos informations personnelles, qui peut être un consentement exprès et/ou implicite selon la loi applicable, vous avez le droit de retirer votre consentement à tout moment. Vous pouvez retirer votre consentement à tout moment en nous contactant en utilisant les coordonnées fournies dans la section "COMMENT POUVEZ-VOUS NOUS CONTACTER À PROPOS DE CET AVIS ?" ci-dessous.
 
-NO
+Cependant, veuillez noter que cela n'affectera pas la licéité du traitement avant son retrait ni, lorsque la loi applicable le permet, n'affectera le traitement de vos informations personnelles effectué en s'appuyant sur des bases légales de traitement autres que le consentement.
 
-B. Protected classification characteristics under state or federal law Gender and date of birth
+Si vous avez des questions ou des commentaires sur vos droits en matière de confidentialité, vous pouvez nous envoyer un e-mail à othmeneb@gmail.com.
 
-NO
+CONTRÔLES DES FONCTIONNALITÉS DO-NOT-TRACK
 
-C. Commercial information Transaction information, purchase history, financial details, and payment information
+La plupart des navigateurs web et certains systèmes d'exploitation mobiles et applications mobiles incluent une fonctionnalité ou un paramètre Do-Not-Track ("DNT") que vous pouvez activer pour signaler votre préférence en matière de confidentialité de ne pas avoir de données sur vos activités de navigation en ligne surveillées et collectées. À ce stade, aucune norme technologique uniforme pour reconnaître et mettre en œuvre les signaux DNT n'a été finalisée. Par conséquent, nous ne répondons actuellement pas aux signaux de navigateur DNT ni à tout autre mécanisme qui communique automatiquement votre choix de ne pas être suivi en ligne. Si une norme de suivi en ligne est adoptée à l'avenir, nous vous informerons de cette pratique dans une version révisée de cet avis de confidentialité.
 
-NO
+LES RÉSIDENTS DES ÉTATS-UNIS ONT-ILS DES DROITS SPÉCIFIQUES EN MATIÈRE DE CONFIDENTIALITÉ ?
 
-D. Biometric information Fingerprints and voiceprints
+En bref : Si vous êtes résident des États-Unis, vous disposez de droits spécifiques concernant l'accès à vos informations personnelles.
 
-NO
+Quelles catégories d'informations personnelles collectons-nous ?
 
-E. Internet or other similar network activity Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements
+Nous avons collecté les catégories suivantes d'informations personnelles au cours des douze (12) derniers mois :
 
-NO
+Catégorie Exemples Collecté A. Identifiants Coordonnées, comme le nom réel, alias, adresse postale, numéro de téléphone ou de portable, identifiant personnel unique, identifiant en ligne, adresse de protocole Internet, adresse e-mail et nom de compte
 
-F. Geolocation data Device location
+NON
 
-NO
+B. Caractéristiques de classification protégées en vertu de la loi fédérale ou d'État Sexe et date de naissance
 
-G. Audio, electronic, visual, thermal, olfactory, or similar information Images and audio, video or call recordings created in connection with our business activities
+NON
 
-NO
+C. Informations commerciales Informations sur les transactions, historique des achats, détails financiers et informations de paiement
 
-H. Professional or employment-related information Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us
+NON
 
-NO
+D. Informations biométriques Empreintes digitales et empreintes vocales
 
-I. Education Information Student records and directory information
+NON
 
-NO
+E. Activité sur Internet ou autre réseau similaire Historique de navigation, historique de recherche, comportement en ligne, données d'intérêt et interactions avec nos sites Web, applications, systèmes et publicités et ceux d'autres entreprises
 
-J. Inferences drawn from collected personal information Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individualâ€™s preferences and characteristics
+NON
 
-NO
+F. Données de géolocalisation Localisation de l'appareil
 
-K. Sensitive personal Information
+NON
 
-NO
+G. Informations audio, électroniques, visuelles, thermiques, olfactives ou similaires Images et enregistrements audio, vidéo ou d'appels créés en relation avec nos activités commerciales
 
-We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of: Receiving help through our customer support channels; Participation in customer surveys or contests; and Facilitation in the delivery of our Services and to respond to your inquiries. How do we use and share your personal information?
+NON
 
-Learn about how we use your personal information in the section, "HOW DO WE PROCESS YOUR INFORMATION?"
+H. Informations professionnelles ou liées à l'emploi Coordonnées professionnelles afin de vous fournir nos Services à un niveau professionnel ou titre de poste, historique professionnel et qualifications professionnelles si vous postulez chez nous
 
-Will your information be shared with anyone else?
+NON
 
-We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?"
+I. Informations éducatives Dossiers et informations de répertoire des étudiants
 
-We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
+NON
 
-We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. WeÂ will not sell or share personal information in the future belonging to website visitors, users, and other consumers.
+J. Déductions tirées des informations personnelles collectées Déductions tirées de toutes les informations personnelles collectées listées ci-dessus pour créer un profil ou un résumé, par exemple, des préférences et des caractéristiques d'un individu
 
-DO WE MAKE UPDATES TO THIS NOTICE?
-In Short:Â Yes, we will update this notice as necessary to stay compliant with relevant laws.
+NON
 
-We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
+K. Informations personnelles sensibles
 
-HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-If you have questions or comments about this notice, you may email us at othmeneb@gmail.com orÂ contact us by post at:
+NON
+
+Nous pouvons également collecter d'autres informations personnelles en dehors de ces catégories lorsque vous interagissez avec nous en personne, en ligne ou par téléphone ou par courrier dans le contexte de : Recevoir de l'aide via nos canaux de support client ; Participation à des enquêtes ou concours pour les clients ; et Facilitation de la prestation de nos Services et réponse à vos demandes. Comment utilisons-nous et partageons-nous vos informations personnelles ?
+
+En savoir plus sur la manière dont nous utilisons vos informations personnelles dans la section "COMMENT TRAITONS-NOUS VOS INFORMATIONS ?"
+
+Vos informations seront-elles partagées avec quelqu'un d'autre ?
+
+Nous pouvons divulguer vos informations personnelles à nos prestataires de services conformément à un contrat écrit entre nous et chaque prestataire de services. En savoir plus sur la manière dont nous divulguons des informations personnelles dans la section "QUAND ET AVEC QUI PARTAGEONS-NOUS VOS INFORMATIONS PERSONNELLES ?"
+
+Nous pouvons utiliser vos informations personnelles à des fins commerciales, telles que la réalisation de recherches internes pour le développement et la démonstration de technologies. Cela n'est pas considéré comme de la "vente" de vos informations personnelles.
+
+Nous n'avons divulgué, vendu ou partagé aucune information personnelle à des tiers à des fins commerciales ou commerciales au cours des douze (12) derniers mois. Nous ne vendrons ni ne partagerons des informations personnelles appartenant aux visiteurs de notre site, aux utilisateurs et autres consommateurs à l'avenir.
+
+METTONS-NOUS À JOUR CET AVIS ?
+
+En bref : Oui, nous mettrons à jour cet avis si nécessaire pour rester en conformité avec les lois pertinentes.
+
+Nous pouvons mettre à jour cet avis de confidentialité de temps à autre. La version mise à jour sera indiquée par une date "Révisée" mise à jour et la version mise à jour sera effective dès qu'elle sera accessible. Si nous apportons des modifications importantes à cet avis de confidentialité, nous pourrons vous en informer soit en publiant un avis de ces modifications de manière visible, soit en vous envoyant directement une notification. Nous vous encourageons à consulter fréquemment cet avis de confidentialité pour être informé de la manière dont nous protégeons vos informations.
+
+COMMENT POUVEZ-VOUS NOUS CONTACTER À PROPOS DE CET AVIS ?
+
+Si vous avez des questions ou des commentaires à propos de cet avis, vous pouvez nous envoyer un e-mail à othmeneb@gmail.com ou nous contacter par courrier à l'adresse suivante :
 
 35 rue de Tolbiac __________ 75013 France
 
-HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please fill out and submit aÂ data subject access request.
